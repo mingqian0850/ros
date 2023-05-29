@@ -1,0 +1,6 @@
+Invoking command in '/home/chen/town_ws/build/village_wang': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/chen/town_ws/src/village_wang -DCMAKE_INSTALL_PREFIX=/home/chen/town_ws/install/village_wang
+Invoked command in '/home/chen/town_ws/build/village_wang' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/chen/town_ws/src/village_wang -DCMAKE_INSTALL_PREFIX=/home/chen/town_ws/install/village_wang
+Invoking command in '/home/chen/town_ws/build/village_wang': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/chen/town_ws/build/village_wang -- -j4 -l4
+Invoked command in '/home/chen/town_ws/build/village_wang' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/chen/town_ws/build/village_wang -- -j4 -l4
+Invoking command in '/home/chen/town_ws/build/village_wang': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/chen/town_ws/build/village_wang
+Invoked command in '/home/chen/town_ws/build/village_wang' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/chen/town_ws/build/village_wang

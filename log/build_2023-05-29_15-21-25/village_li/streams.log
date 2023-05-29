@@ -1,0 +1,37 @@
+[0.455s] Invoking command in '/home/chen/town_ws/src/village_li': PYTHONPATH=/home/chen/town_ws/build/village_li/prefix_override:/home/chen/town_ws/install/village_li/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/village_li build --build-base /home/chen/town_ws/build/village_li/build install --record /home/chen/town_ws/build/village_li/install.log --single-version-externally-managed
+[0.646s] running egg_info
+[0.646s] creating ../../build/village_li/village_li.egg-info
+[0.646s] writing ../../build/village_li/village_li.egg-info/PKG-INFO
+[0.646s] writing dependency_links to ../../build/village_li/village_li.egg-info/dependency_links.txt
+[0.647s] writing entry points to ../../build/village_li/village_li.egg-info/entry_points.txt
+[0.647s] writing requirements to ../../build/village_li/village_li.egg-info/requires.txt
+[0.647s] writing top-level names to ../../build/village_li/village_li.egg-info/top_level.txt
+[0.647s] writing manifest file '../../build/village_li/village_li.egg-info/SOURCES.txt'
+[0.648s] reading manifest file '../../build/village_li/village_li.egg-info/SOURCES.txt'
+[0.649s] writing manifest file '../../build/village_li/village_li.egg-info/SOURCES.txt'
+[0.649s] running build
+[0.649s] running build_py
+[0.649s] creating /home/chen/town_ws/build/village_li/build
+[0.649s] creating /home/chen/town_ws/build/village_li/build/lib
+[0.649s] creating /home/chen/town_ws/build/village_li/build/lib/village_li
+[0.649s] copying village_li/li4.py -> /home/chen/town_ws/build/village_li/build/lib/village_li
+[0.650s] copying village_li/__init__.py -> /home/chen/town_ws/build/village_li/build/lib/village_li
+[0.650s] running install
+[0.650s] running install_lib
+[0.650s] creating /home/chen/town_ws/install/village_li/lib/python3.10/site-packages/village_li
+[0.650s] copying /home/chen/town_ws/build/village_li/build/lib/village_li/li4.py -> /home/chen/town_ws/install/village_li/lib/python3.10/site-packages/village_li
+[0.651s] copying /home/chen/town_ws/build/village_li/build/lib/village_li/__init__.py -> /home/chen/town_ws/install/village_li/lib/python3.10/site-packages/village_li
+[0.651s] byte-compiling /home/chen/town_ws/install/village_li/lib/python3.10/site-packages/village_li/li4.py to li4.cpython-310.pyc
+[0.651s] byte-compiling /home/chen/town_ws/install/village_li/lib/python3.10/site-packages/village_li/__init__.py to __init__.cpython-310.pyc
+[0.651s] running install_data
+[0.652s] creating /home/chen/town_ws/install/village_li/share/ament_index
+[0.652s] creating /home/chen/town_ws/install/village_li/share/ament_index/resource_index
+[0.652s] creating /home/chen/town_ws/install/village_li/share/ament_index/resource_index/packages
+[0.652s] copying resource/village_li -> /home/chen/town_ws/install/village_li/share/ament_index/resource_index/packages
+[0.652s] copying package.xml -> /home/chen/town_ws/install/village_li/share/village_li
+[0.652s] running install_egg_info
+[0.654s] Copying ../../build/village_li/village_li.egg-info to /home/chen/town_ws/install/village_li/lib/python3.10/site-packages/village_li-0.0.0-py3.10.egg-info
+[0.654s] running install_scripts
+[0.671s] Installing li4_node script to /home/chen/town_ws/install/village_li/lib/village_li
+[0.672s] writing list of installed files to '/home/chen/town_ws/build/village_li/install.log'
+[0.697s] Invoked command in '/home/chen/town_ws/src/village_li' returned '0': PYTHONPATH=/home/chen/town_ws/build/village_li/prefix_override:/home/chen/town_ws/install/village_li/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/village_li build --build-base /home/chen/town_ws/build/village_li/build install --record /home/chen/town_ws/build/village_li/install.log --single-version-externally-managed
